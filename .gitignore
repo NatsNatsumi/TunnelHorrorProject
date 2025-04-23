@@ -1,0 +1,18 @@
+l Engine specific
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.VC.db
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.opensdf
+*.log
+
+# Visual Studio Code
+.vscode/
+
